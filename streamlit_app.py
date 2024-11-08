@@ -3,6 +3,10 @@ import streamlit as st
 import numpy as np
 #from keras.models import load_model
 
+if st.button("CLICK ME")
+  st.balloons()
+
+
 # # Import the class labels from labels.txt and assign to a list
 # classes = [' '.join(x.split(' ')[1:]).replace('\n','') for x in open('labels.txt', 'r').readlines()]
 # # Load the Model
